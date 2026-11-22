@@ -1,0 +1,12 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"90-09092024-059420";"";
+"REFERENCE";"1758999";"";
+"rs_stock_number";"1758999";"";
+"TraceParts.InstanceId";"90-09092024-0594202N3XX9WWY2MK673V115V3T3RA";"";
+"url";"https://uk.rs-online.com/web/p/products/1758999?cm_mmc=en-ds-_-mcad-_-traceparts-_-1758999'";"";
+"TraceParts.PartTitle";"1 POLE + LOCK + RING (MOVABLE) + BLUE LE";"";
+"SUPPLIER";"RS PRO";"";
+"DESIGN";"1 POLE + LOCK + RING (MOVABLE) + BLUE LE";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.PartVersion";"1.0.0";"";
